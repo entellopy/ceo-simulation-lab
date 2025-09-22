@@ -1,4 +1,4 @@
-# ** CEO Archetype Simulation – Leadership Under Complexity**
+# CEO Archetype Simulation – Leadership Under Complexity
 This repository contains a prototype simulation built using [Mesa](https://mesa.readthedocs.io/en/stable/) (an agent-based modeling framework in Python) to explore how different CEO leadership styles influence organizational outcomes over time.
 
 ## Purpose  
