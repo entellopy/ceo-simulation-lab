@@ -1,4 +1,4 @@
-# CEO Archetype Simulation – Leadership Under Complexity
+## CEO Archetype Simulation – Leadership Under Complexity
 This repository contains a prototype simulation built using [Mesa](https://mesa.readthedocs.io/en/stable/) (an agent-based modeling framework in Python) to explore how different CEO leadership styles influence organizational outcomes over time.
 
 ### Purpose  
@@ -30,4 +30,4 @@ python simulation.py
 This model was developed as part of a broader exploration into leadership strategy under complexity. For questions, collaboration, or consulting inquiries, feel free to connect via [Issue](https://github.com/entellopy/ceo-simulation-lab/issues).
 
 ### License 
-This project is licensed under the [CC BY-NC 4.0 license] (https://creativecommons.org/licenses/by-nc/4.0/legalcode#legal-code-title). You’re free to use, adapt, and share it for non-commercial purposes with attribution.
+This project is licensed under the [CC BY-NC 4.0 license](https://creativecommons.org/licenses/by-nc/4.0/legalcode#legal-code-title). You’re free to use, adapt, and share it for non-commercial purposes with attribution.
