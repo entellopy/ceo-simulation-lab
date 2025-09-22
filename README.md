@@ -29,6 +29,5 @@ python simulation.py
 ## Contact  
 This model was developed as part of a broader exploration into leadership strategy under complexity. For questions, collaboration, or consulting inquiries, feel free to connect via [Issues].
 
----
-
-Let me know if you’d like help customizing the repo name, adding a license, or writing a short project description for GitHub’s sidebar.
+## License 
+This project is licensed under the CC BY-NC 4.0 license. You’re free to use, adapt, and share it for non-commercial purposes with attribution.
